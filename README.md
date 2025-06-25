@@ -20,8 +20,11 @@ This is an excellent choice, quite likely to improve visibility and boost citati
 
 
 *References:*
+
 (1) Colavizza, G., Hrynaszkiewicz, I., Staden, I., Whitaker, K., McGillivray, B., 2020. The citation advantage of linking publications to research data. PLoS ONE 15, e0230416. https://doi.org/10.1371/journal.pone.0230416
+
 (2) Kaushal, N., Lechleitner, F. A., Wilhelm, M., Azennoud, K., Bühler, J. C., Braun, K., Ait Brahim, Y., Baker, A., Burstyn, Y., Comas-Bru, L., Fohlmeister, J., Goldsmith, Y., Harrison, S. P., Hatvani, I. G., Rehfeld, K., Ritzau, M., Skiba, V., Stoll, H. M., Szűcs, J. G., … SISAL Working Group members. (2024). SISALv3: A global speleothem stable isotope and trace element database. Earth System Science Data, 16(4), 1933–1963. https://doi.org/10.5194/essd-16-1933-2024
+
 (3) Williams, J. W., Grimm, E. C., Blois, J. L., Charles, D. F., Davis, E. B., Goring, S. J., Graham, R. W., Smith, A. J., Anderson, M., Arroyo-Cabrales, J., Ashworth, A. C., Betancourt, J. L., Bills, B. W., Booth, R. K., Buckland, P. I., Curry, B. B., Giesecke, T., Jackson, S. T., Latorre, C., … Takahara, H. (2018). The Neotoma Paleoecology Database, a multiproxy, international, community-curated data resource. Quaternary Research, 89(1), 156–177. https://doi.org/10.1017/qua.2017.105
 
 
