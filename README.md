@@ -3,17 +3,19 @@
 1. Hello, congrats and thank you for choosing SISAL to upload your Speleothem data! 
 This is an excellent choice, quite likely to improve visibility and boost citations of your work (1).				
 
-2. You find enclosed in this folder two excel workbooks, which should be used to submit your data to the SISAL database. The main sheet to fill out is SISAL_workbook_v15_template, please follow the detailed instructions given in the INSTRUCTIONS tab carefully. After filling out the sheet, you can submit by sending an email to sisal.database@gmail.com.
+2. You find enclosed in this folder three excel workbooks, which should be used to submit your data to the SISAL database. The main sheet to fill out is SISAL_workbook_v15_template, please follow the detailed instructions given in the INSTRUCTIONS tab carefully. After filling out the sheet, you can submit by sending an email to sisal.database@gmail.com.
 
-3. The sheet has been developed by the global speleothem community over several iterations. It asks for a lot of metadata, so might need a bit of patience when filling it out for the first time. Yet, this is what makes the data in SISAL so valuable and versatile.
+3. The workbook has been developed by the global speleothem community over several iterations. It asks for a lot of metadata, so might need a bit of patience when filling it out for the first time. Yet, this is what makes the data in SISAL so valuable and versatile.
 
-3. The sheet "Dating Conversion" is there to assist with the conversion of the format U/Th dates are provided by established labs to the format of SISAL. Please, follow as well the instructions given carefully.
+3. The workbook "Dating Conversion" is there to assist with the conversion of the format U/Th dates are provided by established labs to the format of SISAL. Please, follow as well the instructions given carefully.
 
-4. The present version 15 of the upload sheet is optimised to enable submissions to SISALv3 (2) on a rolling basis, connected to the paleoecological database Neotoma (3). The SISAL-Neotoma data stewards will regularly release this data and the additional SISAL chronologies on Zenodo, from which Neotoma will pull the data.
+4. The workbook "TE_grams_moles_conversion_file" is there to assist with the conversion of the Trace Elemt ratios between molar and weight ratios. Please, follow as well the instructions given carefully.   
 
-5. Please note, that currently (June 2025) only the upload of single entities and not of composites is available through this pathway.
+5. The present version 15 of the upload sheet is optimised to enable submissions to SISALv3 (2) on a rolling basis, connected to the paleoecological database Neotoma (3). The SISAL-Neotoma data stewards will regularly release this data and the additional SISAL chronologies on Zenodo, from which Neotoma will pull the data.
 
-6. Regarding publication of your data together with a new publication, we recommend two possible pathways: 
+6. Please note, that currently (June 2025) only the upload of single entities and not of composites is available through this pathway.
+
+7. Regarding publication of your data together with a new publication, we recommend two possible pathways: 
 		1) Upload the data in the worksheet format or a format of your choice in any data repository (e.g., the one from your university) to receive a doi immediately. Then, when submitting to SISAL make sure to link to your original submission by providing the dataset-DOI in the last column of the entity metadata tab. This ensures that the datasets are connected and can be traced back.
 		2) Directly submit to SISAL-Neotoma, and we can generate a DOI for the dataset. Please reach out to sisal.database@gmail.com if you are interested in this option.
 
